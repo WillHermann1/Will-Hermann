@@ -25,7 +25,7 @@ I am a Junior at the University of Iowa pursuing a BBA in Finance as well as Bus
 - NFL: Bears
 - College: Iowa Hawkeyes
 - NHL: Colorado Avalanche
-- 
+  
 ## LinkedIn
 
 [title](https://www.linkedin.com/in/willhermann)
