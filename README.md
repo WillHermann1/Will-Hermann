@@ -1,11 +1,11 @@
 # Will-Hermann
 ## Table of contents
 
-- [PROJECT TITLE](#Project title)
-- [WHO AM I](#Who am I)
+- [PROJECT TITLE](#ProjectTitle)
+- [WHO AM I](#WhoamI)
 - [HOBBIES](#Hobbies)
-- [FAVORITE SPORTS TEAMS](#Favorite Sports Teams)
-- [LINKEDIN] (#My LinkedIn
+- [Favorite SPORTS TEAMS](#FavoriteSportsTeams)
+- [LINKEDIN](#LINKEDIN)
 
 ## Project Title
 
